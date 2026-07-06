@@ -45,7 +45,7 @@ Make sure you have Python installed on your computer. You can download it from [
 ## 💻 Sample Interaction
 ```text
 Enter Your Name: Anik
-Hey Anik Good Night!
+Hey Anik Good Morning!
 Welcome Anik to Your Buddy ChatBot
 You can ask me basic question, Type 'bye' to exit from the bot
 
